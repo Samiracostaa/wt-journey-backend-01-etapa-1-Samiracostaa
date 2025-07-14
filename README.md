@@ -116,14 +116,6 @@ jornada-levty-backend/
 - Estrutura de resposta padronizada
 - Simulação de dados de API
 
-## 🎨 Interface
-
-A aplicação mantém o design original do portfolio com:
-- Fundo animado
-- Design responsivo
-- Elementos flutuantes
-- Gradientes e efeitos visuais
-- Formulários estilizados
 
 ## 📚 Aprendizados
 
@@ -138,7 +130,7 @@ Esta aplicação demonstra como:
 ## 👩‍💻 Desenvolvedora
 
 **Samira Kelly da Costa Reis**
-- Desenvolvedora Backend
+
 - Especializada em APIs e microsserviços
 - Transformando ideias em soluções robustas
 
